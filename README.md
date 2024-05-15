@@ -16,7 +16,7 @@
 
 ### :woman_technologist: About Me :
 
-- 🔭 I’m currently working on [fitCheck](https://github.com/sundaestroll/fitCheck)
+- 🔭 I’m currently working on [fitCheck](https://github.com/sundaestroll/fitCheck) and leet code questions
 - 🌱 I’m currently learning [Python](https://github.com/sundaestroll/python) and Algorithms & Data Structures
 - 👯 I’m looking to collaborate! 
 <!--  

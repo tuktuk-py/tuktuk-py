@@ -56,5 +56,6 @@
 ![LeetCode Stats](https://leetcode.card.workers.dev/sundaestroll?theme=unicorn&font=source_code_pro&extension=activity)
 <!-- https://leetcode.card.workers.dev/ -->
 
-###: Wait! Don't leave yet
+### Wait! Don't leave yet
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)

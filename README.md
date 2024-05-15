@@ -42,5 +42,8 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" title="Windows11" **alt="Windows11" width="50" height="60"/>
 </div>
 
+---
+
+### :fire: My Stats :
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/sundaestroll?theme=unicorn&font=source_code_pro&extension=activity)

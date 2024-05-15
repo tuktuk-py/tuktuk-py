@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: love camping 🏕️ photography 📸
+- ⚡ Fun fact: I love camping 🏕️ and taking film photography 📸
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>

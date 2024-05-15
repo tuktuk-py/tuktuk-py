@@ -19,8 +19,10 @@
 - 🔭 I’m currently working on [fitCheck](https://github.com/sundaestroll/fitCheck)
 - 🌱 I’m currently learning [Python](https://github.com/sundaestroll/python) and Algorithms & Data Structures
 - 👯 I’m looking to collaborate! 
-- 🤔 I’m looking for help with interviews 👩‍🏫
+<!--  
+- 🤔 I’m looking for help with interviews 👩‍🏫 
 - 💬 Ask me about 
+-->
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/seungah-choi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>

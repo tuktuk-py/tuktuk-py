@@ -60,4 +60,4 @@
 
 ### 🫵 Wait! Don't leave yet
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=onedark)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=onedark)

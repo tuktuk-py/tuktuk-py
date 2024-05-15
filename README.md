@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<center> <div id="badge">
+<div id="header" align="center">
   <a href="https://www.linkedin.com/in/seungah-choi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div> 
 <img src="https://komarev.com/ghpvc/?username=sundaestroll&style=flat-square&color=blue" alt=""/>
-</center>
+</div>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="60"/>&nbsp;

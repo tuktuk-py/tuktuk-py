@@ -1,4 +1,5 @@
-### Hi there 👋
+<div id="header" align="center">
+### Hi there 👋 
 
 <!--
 **sundaestroll/sundaestroll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="header" align="center">
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBnejE0NTd4N2Jma2Z4OXRocXB5djIyZjRhNTNuam9zY3p4emo5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ISOckXUybVfQ4/giphy.gif" width="500"/>
    <br>
   <a href="https://www.linkedin.com/in/seungah-choi">

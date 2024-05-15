@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-   <img src="https://giphy.com/gifs/spongebob-squarepants-alone-lonely-ISOckXUybVfQ4" width="100"/>
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBnejE0NTd4N2Jma2Z4OXRocXB5djIyZjRhNTNuam9zY3p4emo5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ISOckXUybVfQ4/giphy.gif" width="100"/>
   <a href="https://www.linkedin.com/in/seungah-choi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>

@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <h1> Hi there 👋 Welcome to my GitHub </h1> 
-<h2> Come join me ...</h2>
+<p> Come join me ...</p>
 
 <!--
 **sundaestroll/sundaestroll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

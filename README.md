@@ -18,8 +18,10 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/seungah-choi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+<br>
 <img src="https://komarev.com/ghpvc/?username=sundaestroll&style=flat-square&color=blue" alt=""/>
 </div>
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="60"/>&nbsp;

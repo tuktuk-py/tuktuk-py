@@ -11,6 +11,7 @@
 <br>
 <img src="https://komarev.com/ghpvc/?username=sundaestroll&style=flat-square&color=blue" alt=""/>
 </div>
+
 ---
 
 ### :woman_technologist: About Me :
@@ -45,5 +46,6 @@
 ---
 
 ### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sundaestroll&theme=earth)](https://git.io/streak-stats)
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/sundaestroll?theme=unicorn&font=source_code_pro&extension=activity)

@@ -53,11 +53,11 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sundaestroll&theme=earth)](https://git.io/streak-stats) <!-- github-readme-streak-stats.herokuapp.com -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sundaestroll&layout=compact&theme=vision-friendly-dark&size_weight=0.5&count_weight=0.5)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![LeetCode Stats](https://leetcode.card.workers.dev/sundaestroll?theme=unicorn&font=source_code_pro&extension=activity&theme=onedark)
+![LeetCode Stats](https://leetcode.card.workers.dev/sundaestroll?theme=unicorn&font=source_code_pro&extension=activity)
 <!-- https://leetcode.card.workers.dev/ -->
 
 ---
 
 ### 🫵 Wait! Don't leave yet
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api&theme=onedark)

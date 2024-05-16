@@ -25,7 +25,6 @@
 -->
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/seungah-choi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love camping 🏕️ and taking film photography 📸
 

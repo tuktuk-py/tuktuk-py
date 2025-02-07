@@ -51,8 +51,10 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tuktuk-py&theme=earth)](https://git.io/streak-stats) <!-- github-readme-streak-stats.herokuapp.com -->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuktuk-py&layout=compact&theme=vision-friendly-dark&size_weight=0.5&count_weight=0.5)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sundaestroll?theme=catppuccinMocha&font=Zen%20Kaku%20Gothic%20Antique)
 <!--[https://leetcode.card.workers.dev/](https://leetcard.jacoblin.cool/)-->
 
